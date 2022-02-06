@@ -4,4 +4,15 @@ body {
 
 h1 {
     font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+    text-align: right;
+    font-weight: 650;
+    font-size: larger;
+}
+
+span {    
+    padding-right: 30px;
+}
+
+div {
+    text-align: left;
 }
