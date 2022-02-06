@@ -1,1 +1,1 @@
-# home-page repository for HTL
+# Feedo - home-page repository for HTL
