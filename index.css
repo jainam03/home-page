@@ -8,6 +8,7 @@ h1 {
     font-weight: 650;
     font-size: 25px;
     padding-bottom: 20px;
+    background-image:"home-page.jpg" ;
 }
 
 span {    
@@ -30,4 +31,6 @@ h2 {
     text-align: center;
     text-decoration: underline;
     padding-top: 40px;
+
+    
 }
