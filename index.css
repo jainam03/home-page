@@ -1,12 +1,13 @@
 body {
-    font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+    font-family: 'Bahnschrift Condensed';
 }
 
 h1 {
-    font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+    font-family: 'Bahnschrift Condensed';
     text-align: right;
     font-weight: 650;
-    font-size: larger;
+    font-size: 25px;
+    padding-bottom: 20px;
 }
 
 span {    
@@ -14,5 +15,19 @@ span {
 }
 
 div {
-    text-align: left;
+    text-align: auto;
+    font-family: 'Bahnschrift Condensed';
+    font-size: 35px;
+    color: white;
+    font-weight: bolder;
+    padding-left: 220px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: rgb(126, 196, 219);
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 40px;
 }
